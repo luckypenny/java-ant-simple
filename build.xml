@@ -48,6 +48,6 @@
 	</target>
 
 	<!-- ========= The main target "all" ========= -->
-	<target name="all" depends="clean,compile,sonar" />
+	<target name="all" depends="clean,compile" />
 
 </project>
